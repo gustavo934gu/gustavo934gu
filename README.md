@@ -74,14 +74,6 @@
 
 ---
 
-## 🎯 Objetivos e Interesses
-
-- ☁️ Me aprofundar em **Microserviços** e arquitetura **Cloud Native**  
-- 📊 Explorar **Machine Learning** com Python e bibliotecas modernas  
-- 🌍 Contribuir para projetos **Open Source** com impacto social e educacional  
-
----
-
 <div align="center">
   <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
 </div>
