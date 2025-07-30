@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&height=60&lines=👋+Hi,+I'm+Gustavo+Freire+Alves" alt="Typing SVG" />
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&height=60&lines=👋+Olá,+me+chamo+Gustavo+Freire" alt="Typing SVG" />
+
   <br/>
 
-  <!-- Social Badges -->
+  <!-- Redes Sociais -->
   <a href="https://github.com/gustavo934gu">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -19,76 +19,66 @@
 
 ---
 
-## 🚀 Sobre Mim
+## 👨‍💻 Sobre Mim
 
-- 🎓 **Autodidata e Curioso:** Estudo diariamente Python e Java, aplicando em projetos reais.  
-- 💡 **Gosto de resolver problemas:** Transformo desafios em código limpo e escalável.  
-- 🌐 **Amo a comunidade Open Source:** Contribuo com issues, PRs e documentação.
+- 🎓 Estudante autodidata de programação.  
+- 💡 Apaixonado por resolver problemas com **código limpo, escalável e bem documentado**  
+- 🤝 Ativo em comunidades open source  
+- 🐧 Usuário Linux convicto: produtividade e liberdade no desenvolvimento
 
 ---
 
-## 🛠️ Tecnologias que uso
+## 🚀 Tecnologias que uso
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </div>
 
 ---
 
-## 🤝 Contribuições Open Source
-
-- 🐛 Correções de bugs em issues  
-- 📖 Melhorias em documentação  
-- 🔀 Criação e revisão de pull requests  
-
----
-
-## 📊 Estatísticas no GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=gustavo934gu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
     height="180"
-    alt="GitHub Stats"
+    alt="Estatísticas do GitHub"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo934gu&layout=compact&theme=tokyonight&langs_count=8&custom_title=Linguagens+mais+usadas"
     height="180"
-    alt="Top Languages"
+    alt="Linguagens mais usadas"
   />
 
 </div>
 
 ---
 
-## 🎯 Metas e Interesses
+## 🤝 Contribuições Open Source
 
-- 📦 Aprofundar conhecimentos em **microserviços** e **cloud-native**  
-- 🧠 Explorar **Machine Learning** com Python  
-- 🌍 Contribuir para projetos **open source** com impacto real
+- 🐞 Correção de bugs e testes automatizados  
+- 📚 Atualização e padronização de documentação  
+- 🔧 Pull Requests com melhorias e novas funcionalidades  
 
 ---
 
-## ⚙️ Linguagens e Ferramentas
+## 🎯 Objetivos e Interesses
 
-<div align="center">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="40" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" style="margin: 10px"/>
-
-</div>
+- ☁️ Me aprofundar em **Microserviços** e arquitetura **Cloud Native**  
+- 📊 Explorar **Machine Learning** com Python e bibliotecas modernas  
+- 🌍 Contribuir para projetos **Open Source** com impacto social e educacional  
 
 ---
 
