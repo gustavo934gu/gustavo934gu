@@ -2,7 +2,7 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&height=60&lines=👋+Hi,+I'm+Gustavo+Freire+Alves" alt="Typing SVG" />
   
-  <br/><br/>
+  <br/>
 
   <!-- Social Badges -->
   <a href="https://github.com/gustavo934gu">
@@ -45,9 +45,9 @@
 
 ## 🤝 Contribuições Open Source
 
-- 🐛 Correções de bugs em issues.  
-- 📖 Melhorias em documentação.  
-- 🔀 Criação e revisão de pull requests.
+- 🐛 Correções de bugs em issues  
+- 📖 Melhorias em documentação  
+- 🔀 Criação e revisão de pull requests  
 
 ---
 
@@ -56,14 +56,14 @@
 <div align="center">
 
   <img 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=gustavo934gu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=gustavo934gu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
+    height="180"
+    alt="GitHub Stats"
   />
   <img 
-    alt="Top Languages" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo934gu&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo934gu&layout=compact&theme=tokyonight&langs_count=8&custom_title=Linguagens+mais+usadas"
+    height="180"
+    alt="Top Languages"
   />
 
 </div>
@@ -82,11 +82,11 @@
 
 <div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="40" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" width="40" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="40" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="40" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" style="margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" style="margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="40" style="margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" style="margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" style="margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" style="margin: 10px"/>
 
 </div>
 
